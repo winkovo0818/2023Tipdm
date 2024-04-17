@@ -31,3 +31,9 @@
 ![image-20240417232354737](program/plot_3.2.png)
 
 ![image-20240417232415295](program/plot_3.3_ZCFZL.png)
+
+### Author
+
+By 云淡风轻 肇庆学院 202124114132
+
+QQ:1026771081
